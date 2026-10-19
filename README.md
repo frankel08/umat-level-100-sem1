@@ -28,6 +28,7 @@ Central repository for course notes, lab assignments, code drills, and curated s
 *Focus: Procedural programming, algorithmic logic, control flow, functions, and memory handling.*
 - 🎥 **Foundations of Computer Science:** [Harvard CS50x (edX / YouTube)](https://cs50.harvard.edu/x/)
 - 🎥 **Syntax Fundamentals (C / C++):** [freeCodeCamp – C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+- 🎥 **C++ Deep-Dive Series:** [The Cherno – C++ Playlist (YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on)
 - 💻 **Syntax Reference & Drills:** [W3Schools C Tutorial](https://www.w3schools.com/c/)
 - ⚡ **Interactive Code Challenges:** [Exercism – C Track](https://exercism.org/tracks/c)
 
@@ -36,6 +37,7 @@ Central repository for course notes, lab assignments, code drills, and curated s
 ### 4. IS 171: Introduction to Computing Technology (3 Credits)
 *Focus: Hardware organization, CPU/RAM pipelines, numbering systems (binary/hex), and OS fundamentals.*
 - 🎥 **Animated Systems Overview:** [CrashCourse Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- 🐧 **Hands-On Linux Fundamentals:** [LabEx – Linux Journey](https://labex.io/linuxjourney)
 - 📖 **Documentation & Reference:** OS architecture, logic gates, and data representation notes.
 
 ---
@@ -73,6 +75,7 @@ Weekly practice drills to build CLI reflex and Git confidence:
 | Tool / Challenge | Platform | Key Skill Learned |
 | :--- | :--- | :--- |
 | **Linux Basics** | [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) | SSH, navigation, file permissions, `grep`, and piping |
+| **Linux Journey** | [LabEx – Linux Journey](https://labex.io/linuxjourney) | Interactive sandbox learning command-line, processes, and permissions |
 | **CLI Detective Drill** | [The Command Line Murders](https://github.com/clmystery/clmystery) | File inspection and filtering with `head`, `tail`, `cat` |
 | **Git Visualizer** | [Learn Git Branching](https://learngitbranching.js.org/) | Commits, branching, detached HEAD, rebasing, and merging |
 | **Git Conflict Game** | [Oh My Git!](https://ohmygit.org/) | Visualizing repository graphs and resolving merge conflicts |
