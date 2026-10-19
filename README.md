@@ -28,7 +28,7 @@ Central repository for course notes, lab assignments, code drills, and curated s
 *Focus: Procedural programming, algorithmic logic, control flow, functions, and memory handling.*
 - 🎥 **Foundations of Computer Science:** [Harvard CS50x (edX / YouTube)](https://cs50.harvard.edu/x/)
 - 🎥 **Syntax Fundamentals (C / C++):** [freeCodeCamp – C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)
-- 🎥 **C++ Deep-Dive Series:** [The Cherno – C++ Playlist (YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on)
+- 🎥 **C++ Full Course:** [Bro Code – C++ Playlist (YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on)
 - 💻 **Syntax Reference & Drills:** [W3Schools C Tutorial](https://www.w3schools.com/c/)
 - ⚡ **Interactive Code Challenges:** [Exercism – C Track](https://exercism.org/tracks/c)
 
