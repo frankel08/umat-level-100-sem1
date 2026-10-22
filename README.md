@@ -25,7 +25,13 @@ Central repository for course notes, lab assignments, code drills, and curated s
 ---
 
 ### 3. IS 163: Introduction to Computer Programming (2 Credits)
-*Focus: Procedural programming, algorithmic logic, control flow, functions, and memory handling.*
+*Focus: Procedural programming, algorithmic logic, control flow, functions, memory handling, and Python programming fundamentals.*
+- ⭐ **New Python Course:** [University of Helsinki – Introduction to Programming (2026 MOOC)](https://programming-26.mooc.fi/)
+  - Complete **Parts 1–7**, including the programming exercises and the course assessment.
+  - Use the course's [grading and exams](https://programming-26.mooc.fi/grading-and-exams) and [support and assistance](https://programming-26.mooc.fi/support-and-assistance) pages for assessment and help.
+- 📚 **Course Scope:** The MOOC is a 5 ECTS University of Helsinki course; for IS 163, use Parts 1–7 as the structured Python programming track.
+- 🐍 **Python Reference:** [Python Documentation – Tutorial](https://docs.python.org/3/tutorial/)
+- ⚡ **Python Practice:** [Exercism – Python Track](https://exercism.org/tracks/python)
 - 🎥 **Foundations of Computer Science:** [Harvard CS50x (edX / YouTube)](https://cs50.harvard.edu/x/)
 - 🎥 **Programming & CS Fundamentals:** [freeCodeCamp – Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 - 🎥 **Syntax Fundamentals (C / C++):** [freeCodeCamp – C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)
